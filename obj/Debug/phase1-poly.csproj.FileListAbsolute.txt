@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\obj\Debug\phase1-poly.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\obj\Debug\phase1-poly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\obj\Debug\phase1-poly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\bin\Debug\phase1-poly.exe.config
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\bin\Debug\phase1-poly.exe
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\bin\Debug\phase1-poly.pdb
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\obj\Debug\phase1-poly.exe
+C:\Users\Admin\source\repos\phase1-poly\phase1-poly\obj\Debug\phase1-poly.pdb
